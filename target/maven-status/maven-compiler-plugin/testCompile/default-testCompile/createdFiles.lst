@@ -1,0 +1,4 @@
+com\VtigerProject\LeadsTestCases\DemoTest.class
+com\VtigerProject\LeadsTestCases\CreateOrgAndCheckTest.class
+com\VtigerProject\LeadsTestCases\CreateLeadsWithValidCredentialsTest.class
+com\VtigerProject\LeadsTestCases\LeadsMultipleDataTest.class
